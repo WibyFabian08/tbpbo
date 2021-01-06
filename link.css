@@ -1,0 +1,15 @@
+.link {
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 4px;
+    padding-bottom: 4px; 
+    background-color: rgb(66, 66, 243);
+    color: white;
+    border-radius: 7px;
+    line-height: 4px;
+}
+
+.link:hover {
+    background: white;
+}
